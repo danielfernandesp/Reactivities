@@ -1,0 +1,14 @@
+[33mcommit 844a7e1f9f848705028d8716319e2cb6c1307349[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: danielfernandesp <danielfernandesp1@gmail.com>
+Date:   Wed Jun 14 14:53:47 2023 -0300
+
+    updating from local - postman excluded
+
+[1mdiff --git a/StudentAssets/section 21 challenge/Instructions.pdf b/StudentAssets/section 21 challenge/Instructions.pdf[m
+[1mdeleted file mode 100644[m
+[1mindex aa48619..0000000[m
+Binary files a/StudentAssets/section 21 challenge/Instructions.pdf and /dev/null differ
+[1mdiff --git a/StudentAssets/section 21 challenge/Solution.pdf b/StudentAssets/section 21 challenge/Solution.pdf[m
+[1mdeleted file mode 100644[m
+[1mindex e3e9782..0000000[m
+Binary files a/StudentAssets/section 21 challenge/Solution.pdf and /dev/null differ
